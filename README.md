@@ -2,9 +2,10 @@ Website : https://www.bototp.online
 
 OTPBOT  is the most advanced and versatile OTP & SMS capture bot that is capable of getting OTP & SMS codes from victims by impersonating a company or bank. 
 
+What Do We Offer
+
 You can use this to get OTP for logins, banks, credit cards, apple pay, and more.
 
-What Do We Offer
 BYPASS OTP BANK
 BYPASS OTP CREDIT CARD
 BYPASS OTP DEBIT CARD
